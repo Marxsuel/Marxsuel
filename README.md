@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Marxsuel/Marxsuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Seja bem vindo(a)!!  :relaxed: </h3>
 
-Here are some ideas to get you started:
+:bookmark_tabs: - Meu nome é Charles Marx, sou militar e estudante de desenvolvimento Web frontend! <br>
+:guitar: - Músico desde os 9 anos de idade <br>
+:sailboat: Entusiasta da vela e da cultura náutica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Tecnologias que estou estudando atualmente : :arrow_down: </h3>  
+<br><br>
+<div style="display: inline_block" >
+  
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+<br> <br>
+<h3> Sinta-se a vontade para contribuir e compartilhar!! <h3>
