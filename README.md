@@ -1,7 +1,7 @@
 
 <h3>Seja bem vindo(a)!!  :relaxed: </h3>
 
-:bookmark_tabs: - Meu nome é Charles Marx, sou militar e estudante de desenvolvimento Web frontend! <br>
+:bookmark_tabs: - Meu nome é Charles Marx, sou militar e estudante de desenvolvimento Web fullstack pela Kenzie Academy! <br>
 :guitar: - Músico desde os 9 anos de idade <br>
 :sailboat: Entusiasta da vela e da cultura náutica
 
