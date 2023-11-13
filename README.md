@@ -1,7 +1,7 @@
 
 <h3>Seja bem vindo(a)!!  :relaxed: </h3>
 
-:bookmark_tabs: - Meu nome é Charles Marx, estudante de desenvolvimento Web fullstack pela Kenzie Academy e Analíse e Desenvolvimento de Sistemas (ADS) pela Estácio! <br>
+:bookmark_tabs: - Meu nome é Charles Marx, desenvolvedor Web Front-End pela Kenzie Academy e estudante de Analíse e Desenvolvimento de Sistemas (ADS) pela Estácio! <br>
 :guitar: - Músico desde os 9 anos de idade <br>
 :sailboat: Entusiasta da vela e da cultura náutica
 
