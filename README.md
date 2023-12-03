@@ -6,9 +6,8 @@
 :sailboat: Entusiasta da vela e da cultura náutica
 
 
-<h3>Tecnologias que estou estudando atualmente : </h3>  
-<br><br>
-
+<h3>Tecnologias : </h3>  
+<br>
 
 <div style="display: inline_block" >
  <h2>Front-End</h2>
