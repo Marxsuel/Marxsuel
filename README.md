@@ -16,6 +16,26 @@
 
 ---
 
+<h3>Experiência em TypeScript (Backend):</h3>
+
+- Desenvolvimento de APIs utilizando TypeScript
+- Utilização de tipos estáticos para aumentar a segurança e a qualidade do código
+- Implementação de padrões de design e arquitetura para garantir um código limpo e escalável
+- Integração com bancos de dados SQL
+- Utilização de frameworks populares como Express.js
+
+---
+
+<h3>Experiência em SQL com PostgreSQL:</h3>
+
+- Criação e otimização de consultas SQL para manipulação de dados complexos
+- Modelagem e design de esquemas de banco de dados eficientes
+- Utilização de transações para garantir a integridade e a consistência dos dados
+- Implementação de políticas de segurança e autenticação para proteger os dados
+- Integração com APIs e aplicações backend para fornecer dados em tempo real
+
+---
+
 <h3>Tecnologias:</h3>
 
 <div style="display: inline_block">
@@ -34,15 +54,25 @@
   <h2>Back-End</h2>
   
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Express.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img align="center" alt="sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql.svg" />
+
   
   <hr>
 </div>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marxsuel&layout=compact)](https://github.com/seu_nome_de_usuario/github-readme-stats)
+<h3>Estatísticas:</h3>
+
+<div style="display: flex; justify-content: space-between;">
+  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marxsuel&layout=compact)](https://github.com/seu_nome_de_usuario/github-readme-stats)
+  
+</div>
 
 ---
 
