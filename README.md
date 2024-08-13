@@ -64,6 +64,8 @@
 
 
 </div>
-<div align"center">
+<div align="center">
+  
   ![Marx GitHub stats](https://github-readme-stats.vercel.app/api?username=Marxsuel&show_icons=true&theme=transparent)
+  
 </div>
