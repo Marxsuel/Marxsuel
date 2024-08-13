@@ -1,5 +1,8 @@
-## Olá! Eu me chamo Charles Marx, Desenvolvedor Web FullStack e entusiasta de cyber security!
-
+<div align="center">
+  
+  ## Olá! Eu sou Charles Marx, Desenvolvedor Web FullStack e entusiasta de cyber security!
+  
+</div>
 
 
 <div style="display: inline_block"><br>
